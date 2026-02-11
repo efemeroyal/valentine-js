@@ -44,7 +44,7 @@ Uses `react-hot-toast` for real-time feedback during card generation and validat
 1. **Clone the repository:**
 
    ```bash
-   git clone [https://github.com/efemeroyal/valentine-js.git](https://github.com/efemeroyal/valentine-js.git)
+   git clone https://github.com/efemeroyal/valentine-js.git
    ```
 
 2. **Install dependencies:**
