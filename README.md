@@ -2,7 +2,7 @@
 
 An elegant, high-performance web application designed for Valentine's Day. This project demonstrates advanced frontend capabilities including real-time logic, complex animations, and client-side image generation.
 
-**Live Link:** [Insert Your Hosted Link Here]
+**Live Link:** [tk-valentine-js.vercel.app](https://tk-valentine-js.vercel.app/)
 
 ---
 
@@ -44,7 +44,7 @@ Uses `react-hot-toast` for real-time feedback during card generation and validat
 1. **Clone the repository:**
 
    ```bash
-   git clone [https://github.com/yourusername/valentine-js.git](https://github.com/yourusername/valentine-js.git)
+   git clone [https://github.com/efemeroyal/valentine-js.git](https://github.com/efemeroyal/valentine-js.git)
    ```
 
 2. **Install dependencies:**
@@ -60,3 +60,5 @@ npm run dev
 ```
 
 ## Developed with ❤️ by Royal Tk
+
+Email: [Click here to send me an email](mailto:efemeroya247@gmail.com)

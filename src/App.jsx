@@ -56,7 +56,7 @@ export default function App() {
             Ready to scale your next project?
           </h2>
           <a
-            href="mailto::efemeroyal247@gmail.com"
+            href="mailto:efemeroyal247@gmail.com"
             className="inline-block px-12 py-5 bg-rose-600 text-white rounded-full font-black text-lg hover:shadow-2xl transition-all hover:-translate-y-1 max-md:py-4"
           >
             LET'S TALK DEALS 🤝
